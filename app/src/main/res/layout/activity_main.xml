@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="550dp"
+            android:background="@drawable/background_intro"
+            android:scaleType="fitXY"/>
+
+        <ImageView
+            android:id="@+id/imageViewlogo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewlogo"
+            android:layout_centerHorizontal="true"
+            android:text="Food App"
+            android:textColor="#3d33a8"
+            android:textSize="40sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textViewWelcomeTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textViewTitle"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:text="Welcome \n to \n Our Food World"
+            android:textColor="#3d33a8"
+            android:textSize="20dp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/buttonLogin"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewWelcomeTxt"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/register_shape"
+            android:elevation="3dp"
+            android:gravity="center"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:text="LOGIN"
+            android:textColor="#FFFFFF" />
+
+
+        <TextView
+            android:id="@+id/textView_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonLogin"
+            android:layout_marginTop="30dp"
+            android:text="Do not have an account?"
+            android:textColor="#000000"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/textViewRegisterlink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_register"
+            android:text="Register"
+            android:textAlignment="center"
+            android:textColor="#3700B3"
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

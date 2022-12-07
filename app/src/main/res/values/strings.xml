@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login Register App Application</string>
+    <string name="click_here_to_reset">Click Here To Reset</string>
+    <string name="Upload_Email_Address">Upload Email Address</string>
+    <string name="Upload_Your_Picture">Upload Your Picture</string>
+</resources>

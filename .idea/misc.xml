@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/cake_24.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/calendar_24.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/email_24.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/eye_24.xml" value="0.1475" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/from_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/gender_24.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/person_pin_24.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/refresh_24.xml" value="0.151" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/drawable/register_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_delete_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_password_change.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_register.xml" value="0.144" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_update_email.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_update_profile.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_update_profile_pic.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_update_settings.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegisterAppApplication/app/src/main/res/menu/common_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
